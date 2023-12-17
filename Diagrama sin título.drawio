@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T23:02:28.951Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="vU9L0Eil-nOVwT4djZhh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T23:11:28.615Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Qe1xChjC-1qkIVktqfNY" version="22.1.11" type="github">
   <diagram name="Página-1" id="-Z899ppzK91JzcZMiFBD">
-    <mxGraphModel>
+    <mxGraphModel dx="1178" dy="430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AQ75htdKIllGZNXou6JG-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AQ75htdKIllGZNXou6JG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ75htdKIllGZNXou6JG-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="107" y="151" width="120" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ75htdKIllGZNXou6JG-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-58" y="303" as="sourcePoint" />
+            <mxPoint x="360" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-57" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ75htdKIllGZNXou6JG-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-58" y="303" as="sourcePoint" />
+            <mxPoint x="-58" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ75htdKIllGZNXou6JG-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="305" as="sourcePoint" />
+            <mxPoint x="360" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ75htdKIllGZNXou6JG-12" value="Olvido Contraseña" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-118" y="371" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ75htdKIllGZNXou6JG-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AQ75htdKIllGZNXou6JG-13" target="AQ75htdKIllGZNXou6JG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ75htdKIllGZNXou6JG-13" value="Validar Credenciales" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="298" y="371" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ75htdKIllGZNXou6JG-14" value="Acceso&lt;br&gt;&amp;nbsp;Ok" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="467" width="101.5" height="93" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
