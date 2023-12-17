@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T23:18:13.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xZeypb-oW0Jt8aZTdZO0" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T23:32:02.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EmQE49NZrW853RyErA45" version="22.1.11" type="github">
   <diagram name="Página-1" id="-Z899ppzK91JzcZMiFBD">
     <mxGraphModel dx="1077" dy="374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,8 +83,8 @@
         <mxCell id="AQ75htdKIllGZNXou6JG-29" value="Menú" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="796" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="AQ75htdKIllGZNXou6JG-31" value="Maximo Intentos" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="36" y="449" width="80" height="80" as="geometry" />
+        <mxCell id="AQ75htdKIllGZNXou6JG-33" value="Máximo de intentos" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="54" y="467" width="101.5" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
